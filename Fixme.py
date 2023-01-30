@@ -27,7 +27,7 @@ def evens(n):
 
 def threes(n):
     '''
-    Returns a list of all numbers from 0 to n inclusive that contain a 3.
+    Returns a list of all numbers from 0 to n inclusive that have a 3.
 
     >>> threes(2)
     []
